@@ -4,9 +4,6 @@ const IconLogo = () => (
   <svg id="logo" xmlns="http://www.w3.org/2000/svg"
     width="69.000000pt" height="69.000000pt" viewBox="0 0 69.000000 69.000000"
     preserveAspectRatio="xMidYMid meet">
-    <metadata>
-      Created by potrace 1.16, written by Peter Selinger 2001-2019
-</metadata>
     <g transform="translate(0.000000,69.000000) scale(0.100000,-0.100000)"
       fill="#000000" stroke="none">
       <path d="M70 500 l0 -110 25 0 c18 0 25 5 25 20 0 13 7 20 20 20 10 0 24 -9
