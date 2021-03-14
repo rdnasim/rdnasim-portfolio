@@ -8,7 +8,7 @@
   In this iteration of <a href="https://rdnasim.pro" target="_blank">rdnasim.pro</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
-![demo](\src\images\Capture.png)
+![demo](\src\images\demo.png)
 
 ## 🛠 Installation & Set Up
 
