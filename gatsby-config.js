@@ -4,8 +4,8 @@ module.exports = {
   siteMetadata: {
     title: 'Riadul Islam Nasim',
     description:
-      'Brittany Chiang is a software engineer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+      'Riadul Islam Nasim is a software engineer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    siteUrl: 'https://rdnasim.pro', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
   },

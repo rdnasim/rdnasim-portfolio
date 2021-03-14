@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Manaratian Student Journal'
-cover: './demo.png'
+cover: './demo_manarat_info.png'
 github: 'https://github.com/rdnasim/ManaratianStudentJournal'
 external: 'https://www.researchgate.net/publication/334207935_Manaratian_Student_Journal_-_easy_supervision_of_the_Institute'
 tech:
